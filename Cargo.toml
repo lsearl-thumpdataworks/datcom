@@ -1,0 +1,8 @@
+[package]
+name = "datcom"
+version = "0.1.0"
+authors = ["Leon Searl <lsearl@thumpdataworks.com>"]
+
+[dependencies]
+toml_edit = "*"
+tempfile = "*"
